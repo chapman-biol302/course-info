@@ -1,8 +1,8 @@
 # Biology 302: Introduction to Bioinformatics
 
-- Mike Macpherson mmacpher at chapman
-- Meets: Tuesday & Thursday,  11:30-12:45 PM, Beckman 203
-- Office Hours: Von Neumann 102, Monday and Wednesday, 1-3pm or by appt.
+- **Instructor** Mike Macpherson ``mmacpher at chapman``
+- **Meets** Tuesday & Thursday,  11:30-12:45 PM, Beckman 203
+- **Office Hours** Von Neumann 102, Monday and Wednesday, 1-3pm or by appt.
 
 ## Course Description
 
@@ -26,18 +26,18 @@ Prerequisites: BIOL 208 and CPSC 230. Students will learn how to use computer pr
   - BLAST search and related
   - Multiple sequence alignment
   - Phylogeny and evolution
-- Exploration of topics in bioinformatics selected from
-- Protein structure prediction
-- Gene regulatory network analysis
-- Phylogenetic inference
-- Population genetics
-- Comparative genomics
-- Medical informatics
-- Drug discovery
-- Automated image analysis
-- Visualization of large datasets
-- Network and systems biology
-- Microbiome analysis
+- Exploration of topics in bioinformatics selected from:
+  - Protein structure prediction
+  - Gene regulatory network analysis
+  - Phylogenetic inference
+  - Population genetics
+  - Comparative genomics
+  - Medical informatics
+  - Drug discovery
+  - Automated image analysis
+  - Visualization of large datasets
+  - Network and systems biology
+  - Microbiome analysis
 
 ## Required Text
 
@@ -72,4 +72,4 @@ grades as follows:
 
 ## Applicable University Policies
 
-[See here](POLICY.md).
+[See here](policy.md).
